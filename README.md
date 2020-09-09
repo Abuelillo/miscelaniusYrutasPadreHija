@@ -1,3 +1,27 @@
+## INFO
+- # INFO WEB
+- https://angular.io/guide/lifecycle-hooks
+- # Comandos
+- npm install --save bootstrap
+- npm install --save jquery
+- npm install --save popper.js
+- ng serve
+- ng g c componentes/ngStyle -it -is
+- ng g c componentes/css -it -is
+- ng g d directives/resaltado
+- ng g c componentes/ngSwitch -is
+- ng g c componentes/home -is -it
+- (creamos a mano app.routes.ts ) -> https://academia-binaria.com/paginas-y-rutas-angular-spa/
+- ng g c componentes/usuario
+- ng g c componentes/usuario/usuarioNuevo -is -it --flat
+- ng g c componentes/usuario/usuarioEditar -is -it --flat
+- ng g c componentes/usuario/usuarioDetalle -is -it --flat
+- ng g c componentes/compartido/navbar -is
+
+```
+' npm install
+```
+
 # Miscelanius
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
